@@ -1,6 +1,6 @@
 # CÓPIA NETFLIX
 
-**Projeto proposto pelo bootcamp da DIO** *([Digital Innovation One](digitalinnovation.one))*
+**Projeto proposto pelo bootcamp da DIO** *(Digital Innovation One)*
 
 ### ALTERAÇÕES
 

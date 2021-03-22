@@ -1,6 +1,6 @@
 # Landing Page - Instagram
 
-**Projeto proposto pelo bootcamp da DIO** *([Digital Innovation One](digitalinnovation.one))*
+**Projeto proposto pelo bootcamp da DIO** *([Digital Innovation One](http://digitalinnovation.one))*
 
 ### OBSERVAÇÃO
 

@@ -1,4 +1,5 @@
-**Projetos propostos pelos bootcamp's da DIO** *([Digital Innovation One](https://github.com/leotatu/DIO)*
+**Projetos propostos pelos bootcamp's da DIO** *[(Digital Innovation One)](https://github.com/leotatu/DIO)*
+
 Em cada pasta contém um *README* com as alterações feitas.
 
 ## PROJETOS

@@ -1,0 +1,16 @@
+/media/leo/SYSTEM_OS/Users/LEO/Desktop/NOTELEO/DIO/projetos/bank/bin/Debug/net5.0/Bank
+/media/leo/SYSTEM_OS/Users/LEO/Desktop/NOTELEO/DIO/projetos/bank/bin/Debug/net5.0/Bank.deps.json
+/media/leo/SYSTEM_OS/Users/LEO/Desktop/NOTELEO/DIO/projetos/bank/bin/Debug/net5.0/Bank.runtimeconfig.json
+/media/leo/SYSTEM_OS/Users/LEO/Desktop/NOTELEO/DIO/projetos/bank/bin/Debug/net5.0/Bank.runtimeconfig.dev.json
+/media/leo/SYSTEM_OS/Users/LEO/Desktop/NOTELEO/DIO/projetos/bank/bin/Debug/net5.0/Bank.dll
+/media/leo/SYSTEM_OS/Users/LEO/Desktop/NOTELEO/DIO/projetos/bank/bin/Debug/net5.0/ref/Bank.dll
+/media/leo/SYSTEM_OS/Users/LEO/Desktop/NOTELEO/DIO/projetos/bank/bin/Debug/net5.0/Bank.pdb
+/media/leo/SYSTEM_OS/Users/LEO/Desktop/NOTELEO/DIO/projetos/bank/obj/Debug/net5.0/Bank.csprojAssemblyReference.cache
+/media/leo/SYSTEM_OS/Users/LEO/Desktop/NOTELEO/DIO/projetos/bank/obj/Debug/net5.0/Bank.GeneratedMSBuildEditorConfig.editorconfig
+/media/leo/SYSTEM_OS/Users/LEO/Desktop/NOTELEO/DIO/projetos/bank/obj/Debug/net5.0/Bank.AssemblyInfoInputs.cache
+/media/leo/SYSTEM_OS/Users/LEO/Desktop/NOTELEO/DIO/projetos/bank/obj/Debug/net5.0/Bank.AssemblyInfo.cs
+/media/leo/SYSTEM_OS/Users/LEO/Desktop/NOTELEO/DIO/projetos/bank/obj/Debug/net5.0/Bank.csproj.CoreCompileInputs.cache
+/media/leo/SYSTEM_OS/Users/LEO/Desktop/NOTELEO/DIO/projetos/bank/obj/Debug/net5.0/Bank.dll
+/media/leo/SYSTEM_OS/Users/LEO/Desktop/NOTELEO/DIO/projetos/bank/obj/Debug/net5.0/ref/Bank.dll
+/media/leo/SYSTEM_OS/Users/LEO/Desktop/NOTELEO/DIO/projetos/bank/obj/Debug/net5.0/Bank.pdb
+/media/leo/SYSTEM_OS/Users/LEO/Desktop/NOTELEO/DIO/projetos/bank/obj/Debug/net5.0/Bank.genruntimeconfig.cache
